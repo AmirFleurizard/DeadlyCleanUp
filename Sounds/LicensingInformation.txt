@@ -1,0 +1,37 @@
+Licensing Information
+---------------------------
+
+[Artwork]
+All done by Christine Chee
+
+[Background Music]
+BG Sound
+File: HappyBGMusic.m
+Author: rezoner
+License by: Creative Commons
+Link: https://opengameart.org/content/happy-arcade-tune
+
+[Sound Effects]
+Item Pick Up
+File: 467610__triqystudio__pickupitem.wav
+Author: TriqyStudio
+License by: Creative Commons
+Link: https://freesound.org/people/TriqyStudio/sounds/467610/
+
+Diving Sound Effect
+File: 553563__mixigodo__diver-going-underwater.wav
+Author: Mixigodo
+License by: Creative Commons
+Link: https://freesound.org/people/Mixigodo/sounds/553563/
+
+Underwater Bubbles Sound Effect
+File: 96742__robinhood76__01650-underwater-bubbles.wav
+Author: Robinhood76
+License by: Creative Commons
+Link: https://freesound.org/people/Robinhood76/sounds/96742/
+
+Player getting hurt
+File: 341244__jeremysykes__hurt01.wav
+Author: jeremysykes
+License by: Creative Commons
+Link: https://freesound.org/people/jeremysykes/sounds/341244/
